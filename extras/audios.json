@@ -1,0 +1,82 @@
+{
+    "memes": {
+        "id": 1,
+        "canciones": [
+            {
+                "id": 1,
+                "nombre": "carelesswhisper",
+                "duracion": 14.13
+            },
+            {
+                "id": 2,
+                "nombre": "muchachos",
+                "duracion": 7.24
+            },
+            {
+                "id": 3,
+                "nombre": "prostagma",
+                "duracion": 0.6
+            },
+            {
+                "id": 4,
+                "nombre": "muybueno",
+                "duracion": 2.3
+            },
+            {
+                "id": 5,
+                "nombre": "ponelevoluntad",
+                "duracion": 5.04
+            },
+            {
+                "id": 6,
+                "nombre": "nomequemes",
+                "duracion": 1.22
+            },
+            {
+                "id": 7,
+                "nombre": "vendedorcamion",
+                "duracion": 5.93
+            },
+            {
+                "id": 8,
+                "nombre": "ohmygod",
+                "duracion": 1.57
+            },
+            {
+                "id": 9,
+                "nombre": "cronica",
+                "duracion": 7.58
+            },
+            {
+                "id": 10,
+                "nombre": "atiendoboludos",
+                "duracion": 75.26
+            }
+        ]
+    },
+    "politica": {
+        "id": 2,
+        "canciones": [
+            {
+                "id": 1,
+                "nombre": "mileipreparate",
+                "duracion": 11.39
+            },
+            {
+                "id": 2,
+                "nombre": "marchaperonista",
+                "duracion": 152.27
+            },
+            {
+                "id": 3,
+                "nombre": "nomearrepiento",
+                "duracion": 3.74
+            },
+            {
+                "id": 4,
+                "nombre": "oloraazufre",
+                "duracion": 5.35
+            }
+        ]
+    }
+}
